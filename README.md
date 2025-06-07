@@ -1,6 +1,6 @@
 # DriveShpere Car Library
 
-A modern car library web application built with React, TypeScript, and Tailwind CSS. This project allows users to browse, filter, and manage a collection of cars with a beautiful UI based on Figma designs.
+A modern car library web application built for FiziVerse using React, TypeScript, and Tailwind CSS. This project was created based on Figma designs and allows users to browse, filter, and manage a collection of cars with an intuitive and visually appealing interface.
 
 ## Features
 
