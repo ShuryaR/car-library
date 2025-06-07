@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# DriveShpere Car Library
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern car library web application built with React, TypeScript, and Tailwind CSS. This project allows users to browse, filter, and manage a collection of cars with a beautiful UI based on Figma designs.
+
+## Features
+
+- **Car Grid Display**: View all cars in an organized grid layout
+- **Filtering**: Filter cars by type, tags, and search text
+- **Sorting**: Sort cars by name or creation date
+- **Car Details**: View detailed information about each car
+- **Add New Cars**: Create new car entries with a dedicated form page
+- **Delete Cars**: Remove unwanted cars with confirmation
+- **Responsive Design**: UI optimized for various screen sizes
+
+## API Integration
+
+This project connects to a mock API service at: https://cars-mock-api-new-6e7a623e6570.herokuapp.com/
 
 ## Available Scripts
 
