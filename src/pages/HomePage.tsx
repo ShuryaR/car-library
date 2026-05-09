@@ -47,7 +47,7 @@ const HomePage: React.FC = () => {
   useEffect(() => {
     fetchCars();
     fetchFilters();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps FYI
   }, []);
 
   // Re-fetch cars when filters or sorting changes
